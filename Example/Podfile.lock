@@ -1,0 +1,16 @@
+PODS:
+  - imageSilder (0.1.0)
+
+DEPENDENCIES:
+  - imageSilder (from `../`)
+
+EXTERNAL SOURCES:
+  imageSilder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  imageSilder: 47cc374031f48b91816b5197965340a52f963fa5
+
+PODFILE CHECKSUM: bd22885995d7092b398f006d7e3ed146d0cca407
+
+COCOAPODS: 1.5.3
