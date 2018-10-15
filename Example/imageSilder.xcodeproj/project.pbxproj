@@ -42,7 +42,7 @@
 		607FACE51AFB9204008FA782 /* imageSilder_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = imageSilder_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		72E1AF327D0443470545FD1D /* imageSilder.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = imageSilder.podspec; path = ../imageSilder.podspec; sourceTree = "<group>"; };
+		72E1AF327D0443470545FD1D /* imageSilder.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = imageSilder.podspec; path = ../imageSilder.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		862FF8B2E83145F58FEB4340 /* Pods-imageSilder_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-imageSilder_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-imageSilder_Example/Pods-imageSilder_Example.release.xcconfig"; sourceTree = "<group>"; };
 		8AAE4BD3165182E6010DDD10 /* Pods_imageSilder_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_imageSilder_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4915760CEFA55FAA03436F8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
